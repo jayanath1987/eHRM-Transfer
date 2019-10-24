@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Transfer Reason</source>
+                <target>මාරුවීම් හේතු</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reasons Summary</source>
+                <target>මාරුවීම් හේතු සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reason Sinhala</source>
+                <target>මාරුවීම් හේතු</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reason Tamil</source>
+                <target>මාරුවීම් හේතු</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reason is required</source>
+                <target>අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Do you really want to Delete?</source>
+                <target>ඔබට මකා දැමීමට අවශ්‍යද?</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Transfer Reason</source>
+                <target>නව මාරුවීම් කාරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preference1</source>
+                <target>මනාපය 1</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preference2</source>
+                <target>මනාපය 2</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preference3</source>
+                <target>මනාපය 3</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Transfers Request</source>
+                <target>නව මාරුවීම් ඉල්ලීම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preferred Division</source>
+                <target>මනාප අංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preferred Location</source>
+                <target>මනාප ස්ථානය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Working Experience</source>
+                <target>පළපුරුද්ද</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Divisional Head Comment</source>
+                <target>අංශ ප්‍රධානියාගේ සටහන</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Years</source>
+                <target>වර්ෂ</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Months</source>
+                <target>මාස</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reason is required</source>
+                <target>අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>please Select the Employee Name</source>
+                <target>සේවකයාගේ නම තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please Enter Date</source>
+                <target>දිනය ඇතුලත් කරන්න</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>please Select the Employee Name</source>
+                <target>සේවකයාගේ නම තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please Enter Date</source>
+                <target>දිනය ඇතුලත් කරන්න</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>please Select the Transferd Division</source>
+                <target>මාරුවීම් අංශය තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Effective Date Should be greater than the commencement date</source>
+                <target>ක්‍රියාකාරී දිනය, ආරම්භක දිනයට වඩා වැඩි විය යුතුයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Greater Effective date Exist for this User</source>
+                <target>වැරදි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Transfer Request</source>
+                <target>මාරුවීම් ඉල්ලීම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>please Select the Transfer Reason</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Update Transfer Request</source>
+                <target>මාරුවීම් යාවත්කාලීන කිරීම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Transfer Details</source>
+                <target>පුහුණු තොරතුරු</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Current Division</source>
+                <target>වර්තමාන සේවා ස්ථානය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Reference Number</source>
+                <target>යොමු අංකය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Request Summary</source>
+                <target>මාරුවීම් ඉල්ලීම් සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Request Summary Approval</source>
+                <target>මාරුවීම් අනුමත කිරීම් සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Mutual Transferred Employee Name</source>
+                <target>සුහද මාරු සේවකයාගේ නම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Update Transfer</source>
+                <target>මාරුවීම් තොරතුරු යාවත්කාලීන කිරීම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Divisional Head Comment</source>
+                <target>අංශ ප්‍රධානි සටහන</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Update Transfer Reason</source>
+                <target>මාරුවීම් තොරතුරු යාවත්කාලීන කිරීම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Transfer Requests Summary</source>
+                <target>මාරුවීම් ඉල්ලීම සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Employee No</source>
+                <target>සේවක සුචිය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Preferred Division/District/National</source>
+                <target>කැමතිම  අංශය /පළාත/ජාතික මට්ටම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>District/Division/National</source>
+                <target>අංශය /පළාත/ජාතික මට්ටම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Transfer Details Summary</source>
+                <target>ස්ථානමාරු තොරතුරු</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Request</source>
+                <target>මාරුවීම් ඉල්ලීම</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Sub-division</source>
+                <target>මාරුකළ ස්ථානය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Mutual Transfer</source>
+                <target>අන්‍යෝන්‍ය මාරුවීම්</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>User Comment</source>
+                <target>  අදහස්  </target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Status</source>
+                <target>තත්වය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Year(s)</source>
+                <target>වර්ෂ</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Month(s)</source>
+                <target>මාසය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Day(s)</source>
+                <target>දවස්</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Pending</source>
+                <target>තීන්දු නැති</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approved</source>
+                <target>අනුමත කළ</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Approved. Pending for next Approval</source>
+                <target>අනුමත කළ. ඊලග තීන්දුව ලැබීමට නියමිතව ඇත</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Transfer Reason</source>
+                <target>பரிமாற்ற காரணம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reasons Summary</source>
+                <target>பரிமாற்ற காரணங்கள் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reason Sinhala</source>
+                <target>பரிமாற்ற காரணம் சிங்களம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reason Tamil</source>
+                <target>பரிமாற்ற காரணம் தமிழ்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reason is required</source>
+                <target>பரிமாற்ற காரணம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Do you want to delete?</source>
+                <target>நீங்கள் நீக்க விரும்புகிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Transfer Reason</source>
+                <target>புதிய மாற்றம் காரணம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preference 1</source>
+                <target>விருப்பம் 1</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preference 2</source>
+                <target>விருப்பம் 2</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preference 3</source>
+                <target>விருப்பம் 3</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>New Transfers Request</source>
+                <target>புதிய இடமாற்றங்கள் கோரிக்கை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preferred Division</source>
+                <target>விருப்பமான பிரிவு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preferred Location</source>
+                <target>விருப்பமான இடம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Working Experience</source>
+                <target>அனுபவம் வேலை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Divisional Head Comment</source>
+                <target>பிரதேச தலைமை கருத்து</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Years</source>
+                <target>ஆண்டுகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Months</source>
+                <target>மாதங்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transfer Reason is required</source>
+                <target>பரிமாற்ற காரணம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select the Employee Name</source>
+                <target>பணியாளர் பெயர் தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please enter Date</source>
+                <target>தேதி உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select the Employee Name</source>
+                <target>பணியாளர் பெயர் தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please Enter Date</source>
+                <target>தேதியை உள்ளிடுக</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>please select the Transfer Division</source>
+                <target>மாற்றம் பிரிவு தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Effective Date should be greater than the Commencement Date</source>
+                <target>பயனுள்ள தேதி ஆரம்பம் தேதி விட அதிகமாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Greater Effective Date exist for this employee</source>
+                <target>கிரேட்டர் சிறந்த தேதி இந்த பணியாளர் உள்ளன</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>New Transfer Request</source>
+                <target>புதிய மாற்ற கோரிக்கை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select the Transfer Reason</source>
+                <target>மாற்றம் காரணத்தை செலக்ட் செய்க</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Update Transfer Request</source>
+                <target>மாற்ற கோரிக்கை மேம்படுத்த</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Transfer Details</source>
+                <target>பரிமாற்ற விவரம்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Current Division</source>
+                <target>தற்போதைய பிரிவு</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Reference Number</source>
+                <target>குறிப்பு எண்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Request Summary</source>
+                <target>கோரிக்கை சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Request Summary Approval</source>
+                <target>கோரிக்கை சுருக்கம் அனுமதி</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Mutual Transferred Employee Name</source>
+                <target>பரஸ்பர இடமாற்றம் பணியாளர் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Update Transfer</source>
+                <target>மாற்றம் மேம்படுத்த</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Divisional Head Comment</source>
+                <target>பிரதேச தலைமை கருத்து</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Update Transfer Reason</source>
+                <target>மாற்றம் காரணம் மேம்படுத்த</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Transfer Requests Summary</source>
+                <target>பரிமாற்ற கோரிக்கைகள் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Employee No</source>
+                <target>பணியாளர் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Preferred Division/District/National</source>
+                <target>விருப்பமான பிரிவு / மாவட்ட / தேசிய</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>District/Division/National</source>
+                <target>மாவட்ட / பிரிவு / தேசிய</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Transfer Details Summary</source>
+                <target>பரிமாற்ற விவரம் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>No invalid characters are allowed</source>
+                <target>இல்லை தவறான எழுத்துக்கள் அனுமதி</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Mutual Transfer</source>
+                <target>பரஸ்பர மாற்றம்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Upload Letter</source>
+                <target>கடிதம் பதிவேற்று</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Sub Division</source>
+                <target>துணை பிரிவு</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Maximum length should be 100 characters</source>
+                <target>அதிகபட்ச நீளம் 100 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Maximum length should be 50 characters</source>
+                <target>அதிகபட்ச நீளம் 50 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Effective Date should be greater than the Commencement Date</source>
+                <target>பயனுள்ள தேதி ஆரம்பம் தேதி விட அதிகமாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Please specify valid date</source>
+                <target>செல்லுபடியாகும் தேதி குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Greater Effective Date exist for this employee</source>
+                <target>கிரேட்டர் சிறந்த தேதி இந்த பணியாளர் உள்ளன</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Maximum 50 characters</source>
+                <target>அதிகபட்ச 50 எழுத்துக்கள்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Wait..</source>
+                <target>காத்திருக்க ..</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Status</source>
+                <target>ச்டடுஸ்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Year(s)</source>
+                <target>இயர்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Month(s)</source>
+                <target>மோனத்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Day(s)</source>
+                <target>டே</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pending</source>
+                <target>பெண்டிங்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approved</source>
+                <target>அப்ப்ரோவேத்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Approved. Pending for next Approval</source>
+                <target>அப்ப்ரோவேத் .  பெண்டிங்  போர்  நேசத்  அப்ப்ரோவல்</target>
+            </trans-unit>
+        </body>        
+    </file>
+</xliff>
